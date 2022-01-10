@@ -1,0 +1,16 @@
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\bin\Debug\net5.0\NSPassServer.exe
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\bin\Debug\net5.0\NSPassServer.deps.json
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\bin\Debug\net5.0\NSPassServer.runtimeconfig.json
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\bin\Debug\net5.0\NSPassServer.runtimeconfig.dev.json
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\bin\Debug\net5.0\NSPassServer.dll
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\bin\Debug\net5.0\ref\NSPassServer.dll
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\bin\Debug\net5.0\NSPassServer.pdb
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\obj\Debug\net5.0\NSPassServer.csprojAssemblyReference.cache
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\obj\Debug\net5.0\NSPassServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\obj\Debug\net5.0\NSPassServer.AssemblyInfoInputs.cache
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\obj\Debug\net5.0\NSPassServer.AssemblyInfo.cs
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\obj\Debug\net5.0\NSPassServer.csproj.CoreCompileInputs.cache
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\obj\Debug\net5.0\NSPassServer.dll
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\obj\Debug\net5.0\ref\NSPassServer.dll
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\obj\Debug\net5.0\NSPassServer.pdb
+C:\Users\joswi\source\repos\NSPassServer\NSPassServer\obj\Debug\net5.0\NSPassServer.genruntimeconfig.cache

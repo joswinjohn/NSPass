@@ -1,0 +1,13 @@
+C:\Users\joswi\source\repos\NSPass\NSPass\bin\Debug\NSPass.exe.config
+C:\Users\joswi\source\repos\NSPass\NSPass\bin\Debug\NSPass.exe
+C:\Users\joswi\source\repos\NSPass\NSPass\bin\Debug\NSPass.pdb
+C:\Users\joswi\source\repos\NSPass\NSPass\obj\Debug\NSPass.csprojAssemblyReference.cache
+C:\Users\joswi\source\repos\NSPass\NSPass\obj\Debug\NSPass.Properties.Resources.resources
+C:\Users\joswi\source\repos\NSPass\NSPass\obj\Debug\NSPass.csproj.GenerateResource.cache
+C:\Users\joswi\source\repos\NSPass\NSPass\obj\Debug\NSPass.csproj.CoreCompileInputs.cache
+C:\Users\joswi\source\repos\NSPass\NSPass\obj\Debug\NSPass.exe
+C:\Users\joswi\source\repos\NSPass\NSPass\obj\Debug\NSPass.pdb
+C:\Users\joswi\source\repos\NSPass\NSPass\obj\Debug\NSPass.NSPass.resources
+C:\Users\joswi\source\repos\NSPass\NSPass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joswi\source\repos\NSPass\NSPass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joswi\source\repos\NSPass\NSPass\obj\Debug\NSPass.csproj.CopyComplete
